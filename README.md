@@ -49,7 +49,4 @@
 
     * (1) Implement algorithm
     * (2) Print (n+1)X(n+1) grid of numbers
-    * (3) Memoize values, so that we don't redo the work when multiple
-    * calls are made
-    * (4) Save previously compute values to memory and load when
-    * instantiating the class.
+    * (3) Memoize values, so that we don't redo the work when multiple calls are made ❌
