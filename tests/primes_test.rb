@@ -15,6 +15,7 @@ class TestPrimes < Test::Unit::TestCase
   end
 
   def test_response
+    assert_equal( [2,3], SUBJECT.process(3) )
     assert_equal( [2,3,5], SUBJECT.process(5) )
     assert_equal( [2, 3, 5, 7, 11, 13, 17, 19, 23, 29], SUBJECT.process(30) )
   end
