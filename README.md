@@ -43,9 +43,9 @@
       * Sieve of Eratosthenes
       T(n) = O(n*log(log(n)))
       S(n) = O(n)
-      https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-
-      https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif
+      https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes 
+ 
+      ![Sieves](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
 
     * (1) Implement algorithm
     * (2) Print (n+1)X(n+1) grid of numbers
